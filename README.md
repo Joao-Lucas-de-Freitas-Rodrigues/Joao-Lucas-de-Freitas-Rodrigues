@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">I am <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-de-freitas-rodrigues-323951211/"><i>João Lucas</i></a> 😃️</h1>
-  <p align="center">I am a intern in .NET development
+  <p align="center">I am a FullStack .NET Developer
   </a><br>
 </div>
 
